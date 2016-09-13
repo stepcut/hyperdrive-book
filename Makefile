@@ -1,0 +1,3 @@
+all:
+	runhaskell make.hs
+
